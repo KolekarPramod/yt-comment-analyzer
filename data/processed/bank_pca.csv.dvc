@@ -1,0 +1,5 @@
+outs:
+- md5: 5b17095184cf6b07f518b7d766bb0a9c
+  size: 282489
+  hash: md5
+  path: bank_pca.csv
