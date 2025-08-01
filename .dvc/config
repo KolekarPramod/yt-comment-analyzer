@@ -1,0 +1,2 @@
+['remote "datastore"']
+    url = s3://yt-comment-analyzer
